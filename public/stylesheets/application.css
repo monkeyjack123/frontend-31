@@ -7,6 +7,7 @@ p{
   color: beige;
 }
 
-.green{
+.green, .green a{
   color: green;
 }
+
